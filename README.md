@@ -21,6 +21,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+Prettier 다운
+설정에서 prettier 에 관련된 것 설정하고,  format on save 검색하여 체크 설정
+
+자바스크립트 Promise 쉽게 이해하기
+
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
